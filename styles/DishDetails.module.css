@@ -1,0 +1,22 @@
+.details {
+    padding: 0 3rem;
+    height: 100vh;
+}
+
+.details__header {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.details__header svg {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.details__image {
+    width: fit-content;
+    font-size: 120pt;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}

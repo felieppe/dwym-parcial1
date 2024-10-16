@@ -1,0 +1,44 @@
+.dish {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.dish p {
+    margin: 0;
+}
+
+.dish__photo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 60pt;
+}
+
+.dish__details {
+    padding: 1rem 0;
+}
+
+.dish__options > button:first-child {
+    width: 100%;
+}
+
+.options__group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+.dish__options button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+.dish__options button a {
+    text-decoration: none;
+    color: #000;
+}

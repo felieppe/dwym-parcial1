@@ -1,0 +1,52 @@
+{
+  "dishes": [
+    {
+      "id": "2",
+      "name": "Tacos de Pollo",
+      "description": "Tacos de pollo marinado con cebolla, cilantro y salsa.",
+      "type": "mexicana",
+      "image": "😂",
+      "preparation": "Marina el pollo, cocínalo y sírvelo en tortillas con cebolla y cilantro."
+    },
+    {
+      "id": "8",
+      "name": "Curry de Garbanzos",
+      "description": "Garbanzos en una rica salsa de curry y especias.",
+      "type": "india",
+      "image": "🍛",
+      "preparation": "Cocina los garbanzos con salsa de curry y sirve con arroz."
+    },
+    {
+      "id": "9",
+      "name": "Falafel",
+      "description": "Bolitas de garbanzos fritas, servidas con salsa tahini.",
+      "type": "mediterránea",
+      "image": "🧆",
+      "preparation": "Forma las bolitas de garbanzos y fríelas hasta dorar."
+    },
+    {
+      "id": "10",
+      "name": "Gelato",
+      "description": "Helado italiano cremoso en diversos sabores.",
+      "type": "italiana",
+      "image": "🍦",
+      "preparation": "Mezcla los ingredientes y congela, revolviendo ocasionalmente."
+    },
+    {
+      "id": "5fe9",
+      "name": "YA SABESsss",
+      "description": "Rica comida lichaa",
+      "type": "ddsada",
+      "image": "F",
+      "preparation": "dasda"
+    },
+    {
+      "id": "063b",
+      "name": "Amor",
+      "description": "ysbb",
+      "type": "dxdd",
+      "image": "❤️",
+      "preparation": "nose"
+    }
+  ]
+}

@@ -7,6 +7,14 @@ const nextConfig = {
                 hostname: "**"
             }
         ]
+    },
+    rewrites: async () => {
+        return [
+            {
+                source: '/api/:path*',
+                destination: 'http://localhost:3000/:path*'
+            }
+        ]
     }
 };
 
